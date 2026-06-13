@@ -3,7 +3,7 @@ O PotatoPOP! é o cantinho mais crocante da internet! Um portal de notícias e o
 Concurso Agrinho 2026
 Este projeto foi desenvolvido especialmente como parte das atividades e submissões para o Concurso Agrinho 2026.
 
-Tecnologias Utilizadas
+🛠️ Tecnologias Utilizadas
 O site foi construído utilizando as tecnologias fundamentais do desenvolvimento web para garantir leveza, velocidade e compatibilidade total:
 
 HTML5: Estruturação semântica de todas as páginas e seções.
